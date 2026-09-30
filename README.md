@@ -10,6 +10,9 @@ Aplicação desktop **WPF** em C# (.NET 8, Windows) para cadastrar e gerenciar p
 5. Excluir produto
 6. Sair
 
+## Video explicativo
+https://www.youtube.com/watch?v=GTpfXGudgmA
+
 ## Requisitos técnicos atendidos
 - ADO.NET (`SqliteConnection`, `SqliteCommand`, `SqliteDataReader`)
 - `ExecuteNonQuery` em INSERT/UPDATE/DELETE e `ExecuteReader` nos SELECT
